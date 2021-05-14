@@ -5,5 +5,5 @@
 3) Install Pygame
 4) Open terminal then write python .\index.py
 # Step to install Pygame
-1) Open Powersheel
+1) Open Powershell
 2) then write pip install pygame
