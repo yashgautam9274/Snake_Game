@@ -10,7 +10,7 @@
 
 ## ScreenShots
 
-<img src="start.jpg" height="250px">
-<img src="mid.jpg" height="250px">
-<img src="gameover.jpg" height="250px">
+<img src="start.png" height="250px">
+<img src="mid.png" height="250px">
+<img src="gameover.png" height="250px">
 
