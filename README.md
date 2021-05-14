@@ -7,3 +7,10 @@
 # Step to install Pygame
 1) Open Powershell
 2) then write pip install pygame
+
+## ScreenShots
+
+<img src="start.jpg" height="250px">
+<img src="mid.jpg" height="250px">
+<img src="gameover.jpg" height="250px">
+
